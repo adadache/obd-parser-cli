@@ -36,7 +36,7 @@
     "mkdirp": "~0.5.1",
     "obd-parser": "~0.3.0",
     "obd-parser-development-connection": "~0.2.0",
-    "obd-parser-serial-connection": "~0.1.1",
+    "obd-parser-serial-connection": "git+https://github.com/adadache/obd-parser-serial-connection.git#master",
     "p-queue": "~0.2.0",
     "promise-queue": "~2.2.3",
     "queue-that-promise": "~1.2.1",
